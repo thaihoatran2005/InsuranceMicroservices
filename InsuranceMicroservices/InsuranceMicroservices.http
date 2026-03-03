@@ -1,0 +1,6 @@
+@InsuranceMicroservices_HostAddress = http://localhost:5084
+
+GET {{InsuranceMicroservices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
